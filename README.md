@@ -3,9 +3,14 @@
 > This article was fully machine-translated (because I don't speak English)
 
 ## Warning
-Don't download version 0.0.1 at all!!! (It won't even run)
+Don't download version 0.0.1 in PyPi at all!!! (It won't even run)
 
 ## How to use it
+
+Download:
+```bash
+pip install zzfy
+```
 
 Too Easy:
 ```python
